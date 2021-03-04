@@ -149,9 +149,9 @@ What strategy will you use to get a high score?Here are game play techniques.
  is no loss of damage). You do not need to dodge every single fly as long as you can plan on capturing enough hearts to stop the overall damage 
 level increasing to 100% in the long run.
 
-*Another idea is to get so good at typing that you do not need to look at the keyboard ,or not look at it much, this makes the game easier.
+* Another idea is to get so good at typing that you do not need to look at the keyboard ,or not look at it much, this makes the game easier.
 
-*It is recommended to start in easy mode as the words are shorter.
+* It is recommended to start in easy mode as the words are shorter.
 
 
 

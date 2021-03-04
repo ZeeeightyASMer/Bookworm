@@ -67,12 +67,14 @@ rewarded by a reduction of damage. Getting a run encourages better typing skills
 
 So there are at least two challenges in this game: to beat the high score; and also get as many runs as possible.
 
-*Pressing 3 uses MSX (or Z80 ASM) specific words in the sentences-when this mode
-is enabled "MSX" appears near the bottom of the screen.
-*Pressing 2 uses general words, i.e. not MSX specific words, and this is shown by
-the absence of the word 'MSX" near the bottom of the screen.
+*Pressing 3 uses MSX (or Z80 ASM) specific words in the sentences-when this mode is enabled "MSX" appears near the bottom of the screen.
+
+*Pressing 2 uses general words, i.e. not MSX specific words, and this is shown by the absence of the word 'MSX" near the bottom of the screen.
+
 *Pressing 4 enables easy level (shown as E.LEVEL on screen)
+
 *Pressing 5 enables normal level (shown as N.LEVEL on screen)
+
 
 The mode can only be changed, if the score is below 2500, using 2,3,4,5. Pressing 2,3,4 or 5 also resets the current score and current high score as 
 it is expected to be pressed near to a beginning of a game or before a new game is started.
@@ -83,7 +85,9 @@ AFTER the high score is passed.
 So there is more challenges of trying to beat the high scores in the four modes generates by the above key presses.
 
 *6 turns off sound effects. 
+
 *7 turns on sounds effects. 
+
 
 The sounds effects are the heart captured sound effect and the sound effect when game ends (using lower notes).
 
@@ -105,17 +109,26 @@ Control Keys
 This is a one player game that uses the keyboard.
 
 Space-starts the game
+
 Left, right, down-moves the player, turbo down points enable
 the player to move down faster, for some distance, depending
 on the turbo down points value
+
 2-use generic words (i.e. non MSX words) in the sentence
+
 3-use MSX specific words in the sentence
+
 4-enables easy mode
+
 5-enables normal mode
+
 6-turns off sounds effects
+
 7-turns on sound effects
+
 A to Z,space and full stop for entering a sentence. Entering
 a sentence correctly gains turbo down points.
+
 
 Note that the mode can only be changed, using 2,3,4,5, if the score is below 2500-otherwise you will need for a new game to start to change the mode.
 It is not allowed to simultaneously press any cursor key and any key used for entering a sentence characters.

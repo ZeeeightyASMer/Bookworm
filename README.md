@@ -20,16 +20,22 @@ If you wish to alter the game, for some reason, you will need to contact me firs
 Game name: Bookworm
 
 Platform: MSX with 8K of RAM 
+
 Game size: 16KB ROM
+
 GAME format: Cartridge
+
 Game Genre: Educational typing game and action game
+
 Name of the group / individuals involved: Z80 ASMer
+
 License: Freeware
+
 Contact details: drop me a line on the Stack Overflow 
 if you need ask about the game (here is my profile page)
 
-https://stackoverflow.com/users/15210223/z80asmer
 
+https://stackoverflow.com/users/15210223/z80asmer
 
 
 Game Description
@@ -142,8 +148,11 @@ What strategy will you use to get a high score?Here are game play techniques.
 * One idea is to accept some damage from a fly while attempting to  capture a heart if there is a good chance to capture the heart (so overall there
  is no loss of damage). You do not need to dodge every single fly as long as you can plan on capturing enough hearts to stop the overall damage 
 level increasing to 100% in the long run.
+
 *Another idea is to get so good at typing that you do not need to look at the keyboard ,or not look at it much, this makes the game easier.
+
 *It is recommended to start in easy mode as the words are shorter.
+
 
 
 Credits

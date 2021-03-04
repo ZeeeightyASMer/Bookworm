@@ -1,5 +1,4 @@
 # Bookworm
-MSXdev '21
 Legal Info
 ----------------
 Copyright 2021 by Z80 ASMer
@@ -17,7 +16,9 @@ The above means you can sell the unaltered game, on a physical cartridge, if you
 If you wish to alter the game, for some reason, you will need to contact me first; my written permission is required for a possible alteration.
 
 ######################### Bookworm  (MSXDev 2021  GAME)#####################
+
 Game name: Bookworm
+
 Platform: MSX with 8K of RAM 
 Game size: 16KB ROM
 GAME format: Cartridge

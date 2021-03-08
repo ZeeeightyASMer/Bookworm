@@ -156,6 +156,13 @@ avoid a fly.
 
 Collect the books, apples, cupcakes or stars for additional points.
 
+Videos demonstrating how the game can be played, to get high score of over 10000, are at the two links below.
+
+https://vimeo.com/519246818
+
+https://vimeo.com/519246749
+
+
 What strategy will you use to get a high score?Here are game play techniques.
 
 * One idea is to accept some damage from a fly while attempting to  capture a heart if there is a good chance to capture the heart (so overall there

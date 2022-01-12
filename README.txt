@@ -7,7 +7,8 @@ THIS SOFTWARE IS PROVIDED ``AS IS'' AND WITHOUT ANY EXPRESS OR
 IMPLIED WARRANTIES, INCLUDING, WITHOUT LIMITATION, THE IMPLIED
 WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE.
 
-This software, the game, is freeware. This game is free for commercial use with the condition that the game is not altered. This game is only to be put on a physical cartridge for a single game (i.e. not a multi-game cartridge).
+This software, the game, is freeware. This game is free for commercial use with the condition that the game is not altered. 
+This game is only to be put on a physical cartridge for a single game (i.e. not a multi-game cartridge).
 This game is free for non-commercial use with the condition that the game is not altered.
 
 The above means you can sell the unaltered game, on a physical cartridge, if you choose to do so.

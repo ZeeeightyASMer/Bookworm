@@ -8,7 +8,7 @@ THIS SOFTWARE IS PROVIDED ``AS IS'' AND WITHOUT ANY EXPRESS OR
 IMPLIED WARRANTIES, INCLUDING, WITHOUT LIMITATION, THE IMPLIED
 WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE.
 
-This software, the game, is freeware. This game is free for commercial use with the condition that the game is not altered.
+This software, the game, is freeware. This game is free for commercial use with the condition that the game is not altered. This game is only to be put on a single cartridge (i.e. not a multi-game cartridge).
 This game is free for non-commercial use with the condition that the game is not altered.
 
 The above means you can sell the unaltered game, on a physical cartridge, if you choose to do so.
@@ -184,8 +184,14 @@ Game made using VASM assembler in 100 percent assembly language. The game is mad
 in assembly for maximum speed as there is so many things happening on screen and
 other things the games does.
 
+Update
+------
+
+Won a prize (a retro gaming annual) in MSX DEV '21 for Bookworm.
+
 
 Version History
 -----------------------
 
 >>22-February-2021 The first version of the game is submitted to MSXDEV'21.
+>>>>12-January-2022 Updated this READ ME file.
